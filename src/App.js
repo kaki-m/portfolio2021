@@ -65,7 +65,7 @@ export default class App extends React.Component {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p className = "title">
-          柿崎愛斗のポートフォリオサイト
+          {/*柿崎愛斗のポートフォリオサイト*/}
         </p>
         <div className = "hello_div">
         <button className = "hellobutton" onClick = {() => {this.handleOpenIntroduction()}}>こんにちは！</button>
@@ -94,7 +94,7 @@ export default class App extends React.Component {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p className = "title">
-          柿崎愛斗のポートフォリオサイト
+          {/*柿崎愛斗のポートフォリオサイト*/}
         </p>
         <div className = "hello_div">
         <button className = "hellobutton" onClick = {() => {this.handleOpenIntroduction()}}>こんにちは！</button>
